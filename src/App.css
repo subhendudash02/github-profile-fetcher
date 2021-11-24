@@ -1,0 +1,78 @@
+body {
+    margin: 1%;
+    background: linear-gradient(180deg, #1488CC, #2B32B2) fixed;
+}
+
+.main-heading {
+    text-align: center;
+}
+
+#username {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    padding: 2%;
+    font-size: larger;
+    border-radius: 50px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: bolder;
+    text-align: center;
+    border: 1px solid #000000;
+}
+
+#fetch-button {
+    display: block;
+    margin: 0 auto;
+    padding: 1% 2% 1% 2%;
+    border-radius: 20px;
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    font-weight: bolder;
+}
+
+#fetch-button:hover {
+    background-image: linear-gradient(45deg, green, greenyellow);
+    transition-duration: 3s;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 1%;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.first {
+    flex: 50%;
+}
+
+.second {
+    flex: 50%;
+}
+
+.first > img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.icons {
+    font-size: 1.0em;
+    vertical-align: middle;
+    padding-top: 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin: 0;
+}
