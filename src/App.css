@@ -70,7 +70,7 @@ body {
     padding-top: 0;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
     #username {
         width: 80%;
     }
