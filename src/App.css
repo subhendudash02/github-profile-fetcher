@@ -76,3 +76,29 @@ footer {
     color: #FFFFFF;
     margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+    #username {
+        width: 80%;
+    }
+
+    #fetch-button {
+        width: 30%;
+        padding: 2%;
+    }
+
+    .card {
+        flex-direction: column;
+        padding: 2%;
+    }
+
+    .first > img {
+        width: 70%;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .second {
+        padding: 2%;
+    }
+}
