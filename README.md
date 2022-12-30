@@ -11,9 +11,9 @@ Make sure there are 3 branches:
 
 # Snapshots
 
-![image-1](../images/snap-1.png)
+![image-1](images/snap-1.png)
 
-![image-2](../images/snap-2.png)
+![image-2](images/snap-2.png)
 
 <br>
 <hr>
